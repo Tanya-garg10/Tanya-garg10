@@ -76,14 +76,13 @@ My goal is to design scalable intelligent systems combining:
 > AI + Automation + Usability + Innovation
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-ten-chi-34.vercel.app/api?username=Tanya-garg10&show_icons=true)
+
+![Top Languages](https://github-readme-stats-ten-chi-34.vercel.app/api/top-langs/?username=Tanya-garg10&layout=compact)
 
 ## 🌐 Connect With Me
-💼 LinkedIn → https://www.linkedin.com/in/tanya-garg-6757862b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-📧 Email → tanyagarg5315@gmail.com
-
----
+- 💼 LinkedIn → https://www.linkedin.com/in/tanya-garg-6757862b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email → tanyagarg5315@gmail.com
 
 ⭐ **"Learn. Build. Improve. Repeat."**
