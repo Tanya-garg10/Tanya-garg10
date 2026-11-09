@@ -77,9 +77,9 @@ My goal is to design scalable intelligent systems combining:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-ten-chi-34.vercel.app/api?username=Tanya-garg10&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tanya-garg10&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-ten-chi-34.vercel.app/api/top-langs/?username=Tanya-garg10&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tanya-garg10&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn → https://www.linkedin.com/in/tanya-garg-6757862b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
